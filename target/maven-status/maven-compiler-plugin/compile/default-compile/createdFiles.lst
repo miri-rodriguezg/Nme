@@ -1,0 +1,13 @@
+uk\ac\city\acwf614\nme\domain\Album.class
+uk\ac\city\acwf614\nme\servlets\RemoveAlbumServlet.class
+uk\ac\city\acwf614\nme\domain\Track_.class
+uk\ac\city\acwf614\nme\dao\NmeRepository.class
+uk\ac\city\acwf614\nme\servlets\TracksByAlbumServlet.class
+uk\ac\city\acwf614\nme\domain\Artist.class
+uk\ac\city\acwf614\nme\servlets\ArtistCountServlet.class
+uk\ac\city\acwf614\nme\servlets\AlbumListServlet.class
+uk\ac\city\acwf614\nme\domain\Artist_.class
+uk\ac\city\acwf614\nme\servlets\AddArtistServlet.class
+uk\ac\city\acwf614\nme\dao\NmeRepositoryJPA.class
+uk\ac\city\acwf614\nme\domain\Album_.class
+uk\ac\city\acwf614\nme\domain\Track.class
